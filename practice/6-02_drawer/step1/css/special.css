@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 /* ===== style.cssの上書き ===== */
-.container {
-    max-width: 100%;
+.container{
+  max-width: 100%;
 }
-img {
-    max-width: 100%;
+img{
+  max-width: 100%;
 }
 
 /* ===== 機能の実装に必要なCSS ===== */
